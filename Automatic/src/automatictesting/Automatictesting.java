@@ -28,6 +28,9 @@ public class Automatictesting {
 			String text= list.get(i).getText();
 			System.out.println(text);
 		}
+		System.out.println("Sucessfull");
+		System.out.println("Again");
+		System.out.println("print");
 	}
 
 
